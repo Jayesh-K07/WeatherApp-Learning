@@ -7,7 +7,7 @@ This application allows the user to change between day and night backgrounds.
 - "Change Day Time" button to switch between day and night modes.
 
 # 📸 Screenshots
-<img width="300" alt="Screenshot 2024-08-07 at 1 37 34 AM" src="https://github.com/user-attachments/assets/7a1a9624-90ba-4583-9991-ca9e170d389b" >  <img width="300" alt="Screenshot 2024-08-07 at 1 45 19 AM" src="https://github.com/user-attachments/assets/62ee0580-fe80-48b9-bd19-bba41619f2d3">
+<img width="300" alt="Screenshot 2024-08-07 at 1 37 34 AM" src="https://github.com/user-attachments/assets/7a1a9624-90ba-4583-9991-ca9e170d389b" >    <img width="300" alt="Screenshot 2024-08-07 at 1 45 19 AM" src="https://github.com/user-attachments/assets/62ee0580-fe80-48b9-bd19-bba41619f2d3">
 
 # ⚙️Requirements
 iOS 17.0 or later
