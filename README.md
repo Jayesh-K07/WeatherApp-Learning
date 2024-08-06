@@ -8,4 +8,4 @@ This application allows the user to change between day and night backgrounds.
 
 # 📸 Screenshots
 
-<img width="465" alt="Screenshot 2024-08-07 at 1 37 34 AM" src="https://github.com/user-attachments/assets/7a1a9624-90ba-4583-9991-ca9e170d389b" = 250x250 >
+<img width="200" alt="Screenshot 2024-08-07 at 1 37 34 AM" src="https://github.com/user-attachments/assets/7a1a9624-90ba-4583-9991-ca9e170d389b"  >
