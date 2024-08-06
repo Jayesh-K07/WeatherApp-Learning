@@ -1,5 +1,6 @@
 # 🌥️ WeatherApp with SwiftUI
-WeatherApp is a simple weather application developed using SwiftUI. This application allows the user to change between day and night backgrounds.
+WeatherApp is a simple weather application developed using SwiftUI. 
+This application allows the user to change between day and night backgrounds.
 
 # 📍 Features
 Day and night background change.
