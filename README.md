@@ -9,7 +9,7 @@ WeatherApp is a simple weather application developed using SwiftUI. This applica
 ## 📸 Screenshots
 <p>
  <img width="350" alt="Screenshot 2024-08-07 at 2 19 12 AM" src="https://github.com/user-attachments/assets/8392e88c-ef8e-4de7-aa7b-6e6c529faf00">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <!-- This adds space between the images -->
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <!-- This adds space between the images -->
   <img width="350" alt="Screenshot 2024-08-07 at 2 18 47 AM" src="https://github.com/user-attachments/assets/03bf0f0b-1414-4713-8ceb-40e1f5b07bf9">
 
 </p>
