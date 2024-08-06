@@ -7,9 +7,12 @@ WeatherApp is a simple weather application developed using SwiftUI. This applica
 - "Change Day Time" button to switch between day and night modes
 
 ## 📸 Screenshots
-<img width="300" alt="Screenshot 2024-08-07 at 1 37 34 AM" src="https://github.com/user-attachments/assets/8fcfaec9-ff07-441e-a7c9-af4fe1631baf">
 
-<img width="300" alt="Screenshot 2024-08-07 at 1 45 19 AM" src="https://github.com/user-attachments/assets/0e22a5d6-4c48-49b4-a51f-095351f61361">
+<p align="center">
+  <img width="300" alt="Screenshot 2024-08-07 at 1 37 34 AM" src="https://github.com/user-attachments/assets/8fcfaec9-ff07-441e-a7c9-af4fe1631baf" style="margin-right: 20px;"/>
+  <img width="300" alt="Screenshot 2024-08-07 at 1 45 19 AM" src="https://github.com/user-attachments/assets/0e22a5d6-4c48-49b4-a51f-095351f61361"/>
+</p>
+
 
 ## ⚙️ Requirements
 iOS 17.0 or later
